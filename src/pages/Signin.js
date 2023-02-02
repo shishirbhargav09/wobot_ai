@@ -58,6 +58,8 @@ const Container = styled.div`
       line-height: 18px;
       letter-spacing: 0em;
       text-align: left;
+      color:  #545454;
+;
     }
     a:link {
       font-family: Inter;
@@ -66,6 +68,8 @@ const Container = styled.div`
       line-height: 17px;
       letter-spacing: 0em;
       text-align: left;
+      color:  #545454;
+
     }
     p {
       //styleName: Web/Default;
@@ -76,6 +80,8 @@ const Container = styled.div`
       letter-spacing: 0em;
       text-align: left;
       margin: 1rem;
+      color:  #545454;
+
     }
   }
 
